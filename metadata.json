@@ -1,0 +1,6 @@
+{
+  "name": "فراز هوش — پنل مدیریت مدل‌های زبانی سازمانی",
+  "description": "پنل مدیریت کاربران، منابع مدل لوکال vLLM، طرح‌های دسترسی و کلیدهای API برای زیرساخت هوش مصنوعی درون‌سازمانی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
